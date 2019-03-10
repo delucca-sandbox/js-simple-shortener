@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  shortener-api:
+    image: #your-ci-image
+    environment:
+      - NODE_ENV=production
+      - PORT=80
