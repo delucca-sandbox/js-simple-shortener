@@ -1,4 +1,4 @@
-# Simple Shortener
+# JS Simple Shortener
 
 Simple URL shortener that can shorten URLs and record every URL activity on a MongoDB database. This shortener was used at Yurah. There, we used a self-hosted MongoDB and used our users IDs to record every activity.
 
